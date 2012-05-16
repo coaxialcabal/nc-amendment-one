@@ -1,0 +1,161 @@
+Item Name,Item Description
+fips,Fips State Code
+county,County Name
+stabb,State Abbreviation
+lat,Latitude Coordinate
+lon,Longitude Coordinate
+sqmiles,Square Miles
+state,State
+macode,Metro Area (if any)
+maname,Metro Area Name (if any)
+totpop00,Tot Population 2000
+totpop06,Total Population Estimated 2006
+chpop,Change Pop 2000-2006
+popdens06,Pop Density 2006
+pop0_5,Age 0-5
+pop6_17,Age 6-17
+pop0_4,Age 0-4
+pop5_9,Age 5-9
+pop10_14,Age 10-14
+pop15_19,Age 15-19
+pop20_24,Age 20-24
+pop25_29,Age 25-29
+pop30_34,Age 30-34
+pop35_39,Age 35-39
+pop40_44,Age 40-44
+pop45_49,Age 45-49
+pop50_54,Age 50-54
+pop55_59,Age 55-59
+pop60_64,Age 69-64
+pop65_69,Age 65-69
+pop70_74,Age 70-74
+pop75_79,Age 75-79
+pop80_84,Age 80-84
+pop85up,Age 85 Up
+medage,Median Age
+white,White
+black,Black
+natam,Native American
+asian,Asian American
+pacific,Pacific American
+tworace,"Two Races, Biracial"
+hispanic,Hispanic
+whtnonh,White Non Hispanic
+totfam,Total Families
+tothu,Total Housing Units
+owners,Owner Occupied Homes
+renters,Renter Occupied Homes
+vacant,Vacant Homes
+medhhinc,Median Household (HH) Income
+agghhinc,Aggregate HH Income
+avhhinc,Average HH INcome
+tothh06,Total HHs 2006
+hh1per,HH with 1 Person
+ihhunder10,Income Under $10k
+ihh10_15k,Income $10-15k
+ihh15_20k,Income $15-20k
+ihh20_25k,Income $20-25k
+ihh25_30k,Income $25-30k
+ihh30_35k,Income $30-35k
+ihh35_40k,Income $35-40k
+ihh40_45k,Income $40-45k
+ihh45_50k,Income $45-50k
+ihh50_60k,Income $50-60k
+ihh60_75k,Income $60-75k
+ihh75_100k,Income $75-100k
+ihh100_125,Income $100-125k
+ihh125_150,Income $125-150k
+ihh150_200,Income $150-200k
+ihh200kpls,Income $200k Up
+inceld65_74,Median Income of Elderly Age 65-74
+inceld75up,Median Income of Elderly Age 75 Up
+incwhite,Income White
+incblack,Income Black
+incnatamer,Income Native American
+incasian,Income Asian
+incpacific,Income Pacific Islander
+inc2race,Income 2 Races
+pwhite,Percentage of Population White
+pblack,Percentage of Population Black
+phispanic,Percentage of Population Hispanic
+pnatam,Percentage of Population Native American
+ptworace,"Percentage of Population Two Races, Biracial"
+asianpac,Asian and Pacific American
+pasianpac,Percentage of Population Asian/Pacific
+pop20_34,Age 20-34
+pop35_49,Age 35-49
+pop50_64,Age 50-64
+pop65_up,Age 65 and up
+ppop20_34,Percentage Population ages 20-34
+ppop35_49,Percentage Population ages 35-49
+ppop50_64,Percentage Population ages 50-64
+ppop65_up,Percentage Population ages 65 and up
+ihh0_20,Household Income 0-20K
+ihh20_40,Household Income 20-40K
+ihh40_60,Household Income 40-60K
+pihh0_20,Percentage with Household Income 0-20K
+pihh20_40,Percentage with Household Income 20-40K
+pihh40_60,Percentage with Household Income 40-60K
+pihh60_75,Percentage with Household Income 60-75K
+pihh75_100,Percentage with Household Income 75-100K
+pihh100_125,Percentage with Household Income 100-125K
+pihh125_150,Percentage with Household Income 125-150K
+pihh150_200,Percentage with Household Income 150-200K
+pihh200_up,Percentage with Household Income 200K-up
+areaname,Location or County
+statefp,State Fips
+inlabf00,Total Labor Force (2000)
+civlab00,Civilian Labor Force (2000)
+emp00,Employed (2000)
+unemp00,Unemployed (2000)
+pctcivlf00,% in Civilian Labor Force (2000)
+military00,Armed Forces (2000)
+mfg00,Manufacturing (2000)
+gov00,Government Workers (2000)
+pmilit00,Percent in Military (2000)
+pgov00,Percent Government Employees (2000)
+pmfg00,Percent in Manufacturing (2000)
+punemp00,Percent Unemployed (2000)
+pdpres00,Democratic Presidential Vote 2000
+pdpres04,Democratic Presidential Vote 2004
+prpres00,Republican Presidential Vote 2000
+prpres04,Republican Presidential Vote 2004
+pagri00,Percent Employed in Agriculture 2000
+pprof00,Percent Employed Professional 2000
+ptradeser00,Percent Employed in Wholesale+Retail Trade+Services 2000
+mortmonth,"Mortgaged mthly costs, Median (dollars) 2000"
+pcollroll00,Percent College+Grad School Enrollment 2000
+pbornst00,Percent Born Inside State of Residence 2000
+ptransp00,Percent Employed in Transportation Related 2000
+peduc00,Percent Employed in Education and Ed Services 2000
+pself00,Percent Self-Employed 2000
+pfampov00,Percent of Families Living in Poverty 2000
+pmobilehh00,Percent of Housing Stock=Mobile Homes 2000
+phs,Percent with HS Diploma 2000
+pcollege,Percent with 4 Year College Degree 2000
+bigcity2,Big Cities Factor Score
+monied2,Monied Burbs Factor Score
+boom2,Booming Diversity Factor Score
+minority2,Minority (Black and Native American) Factor Score
+evangel2,Evangelical Epicenters Factor Score
+immig2,Immigration Nation Factor Score
+tractor2,Tractor Country Factor Score
+mormon2,Mormon Outposts Factor Score
+service2,Service and Trade Centers Factor Score
+empty2,Emptying Nests Factor Score
+milit2,Military Bastions Factor Score
+college2,College and Careers Factor Score
+Counties,County Name
+bigcity10,Big Cities Membership
+monied10,Monied Burbs Membership
+boom10,Booming Diversity Membership
+minority10,Minority (Black and Native American) Membership
+evangel10,Evangelical Epicenters Membership
+immig10,Immigration Nation Membership
+tractor10,Tractor Country Membership
+mormon10,Mormon Outposts Membership
+service10,Service and Trade Centers Membership
+empty10,Emptying Nests Membership
+military10,Military Bastions Membership
+college10,College and Careers Membership
+categories10,New Community Categories for March 2010 Revision
